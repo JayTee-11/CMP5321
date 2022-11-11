@@ -28,5 +28,3 @@ if device_info ['version'] != current_version:
 print('')
 
 file.close()
-
-    
